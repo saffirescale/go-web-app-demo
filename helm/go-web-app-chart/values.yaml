@@ -3,7 +3,7 @@ replicaCount: 2
 image:
   repository: saffirescale/go-web-app
   pullPolicy: IfNotPresent
-  tag: "20481867852"
+  tag: "20483567656"
 
 # service:
 #   type: ClusterIP
